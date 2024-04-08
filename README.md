@@ -7,7 +7,7 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 - [Demo](#demo)
 - [Description](#description)
 - [Features](#features)
-- [Technologies Used](#technologies_used)
+- [Technologies Used](#technologies-used)
 
 ## Demo
 
