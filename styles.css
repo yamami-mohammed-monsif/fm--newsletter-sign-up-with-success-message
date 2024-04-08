@@ -45,6 +45,8 @@ picture {
 .grid {
     background-color: var(--clr-neutral-100);
     display: grid;
+    max-width: 375px;
+    margin-inline: auto;
 }
 
 .container {
@@ -158,7 +160,7 @@ button:hover {
 
 
 
-@media(min-width: 376px) {
+@media(min-width: 700px) {
 
     body {
         background-color: var(--clr-neutral-700);
